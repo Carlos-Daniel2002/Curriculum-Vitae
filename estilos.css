@@ -1,0 +1,24 @@
+body {
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	im
+}
+.perfil{
+	border-image: black;
+	width: 120px;
+	height: auto;
+	border-radius: 60px;
+	border-color: black;
+}
+.enlace{
+	color: green;
+}
+.icon{
+	border-image: blue;
+}
+.letra{
+	color: blue;
+}
